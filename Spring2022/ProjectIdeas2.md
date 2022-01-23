@@ -22,3 +22,6 @@ I think some projects I would be interested in would include some element of cry
 
 I would probably work on something I've been working on in RCOS called OED (Open Energy Dashboard). If there is an interesting project that gets presented, I might choose those projects instead. Preferably something web-development oriented, though it would be fun to learn languages for mobile apps or games.
 
+## Jonathon Koseoglu
+
+I was interested in creating a platform for RPI athletes to log workouts and track PRs to compare to other athletes. Coaches could also release workout plans through it which would be beneficial for mass communication during offseason and for coaches to track progress.
